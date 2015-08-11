@@ -1,4 +1,20 @@
-Well done. So now that you know how to cd into a directory, you had best learn how to get out of it again.
+   .~~.   .~~.
+  '. \ ' ' / .'
+   .~ .~~~..~.
+  : .~.'~'.~. :
+ ~ (   ) (   ) ~
+( : '~'.~.'~' : ) Excellent Work
+ ~ .~ (   ) ~. ~
+  (  : '~' :  ) 
+   '~ .~~~. ~'
+       '~'
+
+Sometimes your terminal screen can become a little messy as it fills with text. To clear the screen just hold down the ctrl key and press l
+
+ctrl l
+
+So now that you know how to cd into a directory, you had best learn how to get out of it again.
+
 On Linux a pair of .. is used to mean the parent of the directory you are in. So to get out of this directory and back to the CLI-TreasureHunt directory you can type
 
 cd ..

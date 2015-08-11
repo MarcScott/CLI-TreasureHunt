@@ -1,5 +1,9 @@
-Did you see all the directories that are listed. That's quite a few, but the next README is only in one of them and you're going to need to find out which one it is.
-
+░░░░░░░▄█▄▄▄█▄
+▄▀░░░░▄▌─▄─▄─▐▄░░░░▀▄
+█▄▄█░░▀▌─▀─▀─▐▀░░█▄▄█
+░▐▌░░░░▀▀███▀▀░░░░▐▌
+████░▄█████████▄░████
+Did you see all the directories that are listed. That's quite a few, but the next README is going to be hard to find.
 The trick to discovering which directory contains the README will be using another tool called du.
 
 du is short for disk usage.
@@ -10,4 +14,4 @@ Try it now by typing:
 
 du -h
 
-and then cd into the largest directory.
+then cd into the largest directory.

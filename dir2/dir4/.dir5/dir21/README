@@ -1,13 +1,15 @@
-It's time to go home.
-If you type:
+─▄▀─▄▀
+──▀──▀
+█▀▀▀▀▀█▄
+█░░░░░█─█
+▀▄▄▄▄▄▀▀
 
-pwd
+The directory listed her (dir31) contains a mess of other directories. Trying to find the README would be a nightmare.
 
-The command Prints your Working Directory.
-It would be a little anoying to have to cd .. all the way back to your home folder, but luckily there is a shortcut on Linux
+We can search for files and directories using the Linux CLI quite easily though, using the find command.
 
-The ~ character represents home, so whenever you want to cd back into your home folder you can type:
+It can have many different flags, but we'll just use the -name flag for now. cd into dir31 and try
 
-cd ~
+find -name 'README'
 
-That's it - just remember the secret phrase "There's no place like home"
+It will tell you the directory it's in, which you can then cd into.

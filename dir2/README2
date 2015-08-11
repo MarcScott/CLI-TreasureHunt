@@ -1,8 +1,19 @@
+──────────▄██▄▄
+─▄▄█████▄─██▀
+▀█████████▄██▄
+▒▒▀██████████▀▒
+▒▒▒▒▒█▄█▄▄▒▒▒▒▒
 Well done on finding the next set of instuctions - give yourself a pat on the back.
-Your next README is in dir3, but unlike this file, all the important information is at the bottom.
-The README in dir3 is so long though, that it would take ages for cat to scroll through all the information that is sitting there.
+You're missing some instructions because head only shows the first 10 lines.
+try typing:
 
-So to have a look at just the bottom of a file - we use a special command called - tail.
+head -n23 README2
+
+The -n23 part is called a flag. It tells head how many lines to read. So it just read 23 lines.
+
+Your next README is in dir3, but unlike this file, all the important information is at the bottom of a huge file
+
+To have a look at just the bottom of a file - we use a special command called - tail.
 cd into dir3 and then use the command
 
 tail README
