@@ -1,0 +1,13 @@
+Did you see all the directories that are listed. That's quite a few, but the next README is only in one of them and you're going to need to find out which one it is.
+
+The trick to discovering which directory contains the README will be using another tool called du.
+
+du is short for disk usage.
+
+By typing du you will see the list of all files and directories beside how many kilobytes of memory they are taking up. We'll use the -h flag so that the output is in human readable format.
+
+Try it now by typing:
+
+du -h
+
+and then cd into the largest directory.

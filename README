@@ -1,0 +1,8 @@
+Well done on using the cat command.
+To find your next set of instructions you're going to need to go into dir1.
+You can do this using the cd command. This is short for 'change directory'.
+You can use it by typing the following:
+
+cd dir1
+
+Once you are in dir1 you can use ls to see what is there and cat to view any README files.

@@ -1,0 +1,13 @@
+It's time to go home.
+If you type:
+
+pwd
+
+The command Prints your Working Directory.
+It would be a little anoying to have to cd .. all the way back to your home folder, but luckily there is a shortcut on Linux
+
+The ~ character represents home, so whenever you want to cd back into your home folder you can type:
+
+cd ~
+
+That's it - just remember the secret phrase "There's no place like home"

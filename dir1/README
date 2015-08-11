@@ -1,0 +1,6 @@
+Well done. So now that you know how to cd into a directory, you had best learn how to get out of it again.
+On Linux a pair of .. is used to mean the parent of the directory you are in. So to get out of this directory and back to the CLI-TreasureHunt directory you can type
+
+cd ..
+
+Once you are there, cd into dir2 and look for another README with your next set of instructions.
